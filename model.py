@@ -1,8 +1,7 @@
 '''
 # Beta Variational AutoEncoder Model
-# Author: Zhihui Lu
-# Date: 2018/10/17
-# Reference: "https://github.com/wuga214/IMPLEMENTATION_Variational-Auto-Encoder"
+# Author: Yuki Saeki
+# Reference: "https://github.com/Silver-L/beta-VAE"
 '''
 
 import tensorflow as tf
